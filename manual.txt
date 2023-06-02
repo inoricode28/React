@@ -1,0 +1,27 @@
+Antes de iniciat debes tener instalado NODEJS
+
+Actualizar el NPM
+sudo npm install -g npm@latest
+
+Intalar la libreria en el sistema GNU/Linux
+sudo npm install -g create-react-app
+
+Crear el marco de trabajo
+create-react-app cursoreact
+
+Iniciar el proyecto
+npm start
+
+cuando inicia el proyecto se abrira un localhost
+
+Ejemplo:
+
+You can now view cursoreact in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.1.175:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
