@@ -1,5 +1,44 @@
+//return en funciones
+const boton = document.createElement('button');
+boton.innerText = 'click me';
+boton.addEventListener('click', ()=>{
+    alert('No dejen de entrenarse!!!!');
+
+});
+
+document.body.append(boton);
 
 
+
+
+/*Inline Arrow Function
+//Funcion Flecha en una sola liena
+const showText = ()=> 'Hola mundo';
+const showNumber = ()=> 22;
+const showBoolean = ()=> true;
+const showArray = ()=> [1,2,3];
+const showObjet = ()=> ({nombre: 'Miguel'})
+
+console.log(showText());
+console.log(showNumber());
+console.log(showBoolean());
+console.log(showArray());
+console.log(showObjet());
+*/
+
+
+/* Funcion Flecha
+const boton = document.createElement('button');
+boton.innerText = 'click me';
+boton.addEventListener('click', ()=>{
+    alert('Realizaste un click');
+
+});
+
+document.body.append(boton);
+*/
+
+/*Funcion anonima
 //Funcion anonima
 console.log(function (){
     return 'Strating...';
@@ -12,14 +51,7 @@ function start(){
     return 'Strating...';
 }
 console.log(start())
-
-
-
-
-
-
-
-
+*/
 
 /* Destructurar un objeto 
 const user = {
