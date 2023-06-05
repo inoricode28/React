@@ -1,3 +1,27 @@
+
+
+//Funcion anonima
+console.log(function (){
+    return 'Strating...';
+}())
+
+
+
+//funcion con nombre
+function start(){
+    return 'Strating...';
+}
+console.log(start())
+
+
+
+
+
+
+
+
+
+/* Destructurar un objeto 
 const user = {
     name: 'Miguel',
     age:30
@@ -12,11 +36,7 @@ function printInfo(user) {
 console.log(printInfo(user))
 
 document.body.innerHTML = printInfo(user);
-
-
-
-
-
+*/
 
 
 
