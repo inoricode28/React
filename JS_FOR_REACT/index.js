@@ -1,3 +1,19 @@
+const user = {
+    name: 'GITHUB',
+    addres:'https://github.com/inoricode28'    
+}
+
+function printInfo(user) {
+    //return '<h1>Hola ' + user.name + '</h1>'
+    return '<a href="'+user.addres+'" target="_blank" class = "button">'+user.name+'</a>'
+}
+console.log(printInfo(user))
+document.body.innerHTML = printInfo(user);
+
+
+
+
+/*
 //return en funciones
 const boton = document.createElement('button');
 boton.innerText = 'click me';
@@ -7,7 +23,7 @@ boton.addEventListener('click', ()=>{
 });
 
 document.body.append(boton);
-
+*/
 
 
 
