@@ -1,0 +1,10 @@
+Extensiones Visual Studio Code
+
+Simple React Snippets
+Reactjs Code Snippets
+React Redux Simple Snippets
+
+Material Icon Theme
+Auto Close Tag
+Intellicode
+Prettier - Code formatter

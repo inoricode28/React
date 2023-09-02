@@ -1,0 +1,37 @@
+   INSTALACION DE LA LIBRERIA DE REACT
+
+   npm install -g create-react-app
+
+
+
+
+   CREACION DE UN PROYECTO DE REACT
+   Debemos estar en la carpeta en donde
+   se va a acrear el proyecto:
+
+   npx create-react-app app_semana09
+
+   create-react-app app_semana09
+
+
+
+
+   SI SE ELIMINO LA CARPETA NODE_MODULES
+   Se puede reconstruir ingresando a la
+   carpeta del proyecto (ventana de comandos)
+   y digitamos:
+
+   npm i
+
+
+
+
+
+   PARA INSTALAR BOOTSTRAP (ULTIMA VERSION)
+   
+   npm i bootstrap
+
+   PARA INSTALAR BOOTSTRAP DE UNA VERSION
+ 
+   npm i --save bootstrap@NRO_VERSION
+   @latest

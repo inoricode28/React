@@ -1,0 +1,13 @@
+Instalar Node
+
+https://nodejs.org/es/download/
+
+Versión Actual LTS: 18.15.0 incluye npm 9.5.0
+
+
+https://es.reactjs.org/tutorial/tutorial.html
+
+Visual Studio Code
+https://code.visualstudio.com/download
+
+System Installer
